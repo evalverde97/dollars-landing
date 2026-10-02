@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://doll-ars.netlify.app/sitemap.xml
